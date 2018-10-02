@@ -16,6 +16,6 @@
 <header>
     <nav class="navbar navbar-light bg-light">
         <a class="navbar-brand" href="#">Kaamelott CRUD</a>
-        <a class="nav-item nav-link" href="add.php">Add</a>
+        <a class="nav-item nav-link" href="../../add.php">Add</a>
     </nav>
 </header>
